@@ -1,0 +1,140 @@
+GI dotphrases
+
+.gibleedupper
+Patient presents with: hematemesis, coffee grounds, hematochezia, melena
+DDx: swallowed maternal blood (apt test), foreign body, esophagitis, esophageal varices, mallory weiss, gastric ulcer, gastritis, duodenitis, duplication cysts, vascular malformations, hemobilia, pulmonary hemorrhage.
+Labs: CBC, Chem 10, Coags, LFTs, T&S, +/- Amylase/lipase, +/-KUB
+Treatment Plan: fluid, transfusions, NPO, PPI, coagulopathy correction, Octreotide for UGIB (ICU only), endoscopy
+
+
+.gibleedlower
+Patient presents with: hematochezia, melena
+Ddx: fissure, hemorrhoids, milk protein allergy, Meckles, intussusception, duplication, epistaxis, vascular, infectious, typhlitis, IBD, juvenile inflammatory polyp, HSP, varices, NEC, ischemic bowel, swallowed mat blood
+Labs: CBC, Chem 10, Coags, LFTs, T&S, +/- Amylase/lipase, +/-KUB
+Treatment Plan: fluid, transfusions, NPO, PPI, coagulopathy correction, endoscopy
+
+
+.gicrohns
+Crohn's patients have transmural inflammation with granuloma formation trhough a Th2 cytokine response. They often present with crampy abdominal pain, diarrhea, and weight loss and are at risk for fistulas, abscesses, and obstruction.
+
+Diagnostics
+General labs: CBC, Chem, iron studies
+Inflammatory/autoimmune labs: ESR, CRP, Fecal calprotectin, Celiac testing, 
+Infectious labs: SSYCE, Cdiff, Hepatitis panel (A, B, C)
+Pre-treatment labs: TB testing [confirm TB negative before immune supression], Thiopurine methyltransferase (TPMT) testing [check risk of bone marrow supression]
+Imaging/Scoping: colonoscopy, endoscopy, MRI/CT
+
+Treatments
+Treatment for Crohn's disease focuses on anti-inflammatory medications such as steroids, aminosalicylates, and immune modulating antibodies.
+- hydrocortisone, budesonide, prednisolone
+- sulfasalazine, olsalazine, mesalazine (5-ASA), balsalazide
+- infliximab, adalimumab, natalizumab, vedolizumab,
+ustekinumab
+
+
+.giulcerativecolitis
+Ulcerative colitis patients have mucosal and submucosal inflammation contiguously involving the rectum and colon through a Th17 response. They have crampy abdominal pain, diarrhea, and tenesmus and are at risk for hemorrhage and toxic megacolon.
+PUCAI scoring is frequently used for determining severity and helping guide treatment in UC patients. It includes abdominal pain, rectal bleeding, stool consistency, number of stools in 24 hours, nocturnal stooling, and activity restriction with scores ranging from 0-85.
+
+Diagnostics
+General labs: CBC, Chem, iron studies
+Inflammatory/autoimmune labs: ESR, CRP, Fecal calprotectin, Celiac testing, 
+Infectious labs: SSYCE, Cdiff, Hepatitis panel (A, B, C)
+Pre-treatment labs: TB testing [confirm TB negative before immune supression], Thiopurine methyltransferase (TPMT) testing [check risk of bone marrow supression]
+Imaging/Scoping: colonoscopy, endoscopy, MRI/CT
+
+Treatments
+Treatment for Ulcerative Colitis focuses on anti-inflammatory medications and enteral nutrition
+- mesalazine (5-ASA), sulfasalazine, balsalazide, infliximab, azathioprine, mercaptopurine
+- exclusive enteral nutrition
+
+
+.gipucai
+1. Abdominal pain:
+No pain 0
+Pain can be ignored 5
+Pain cannot be ignored 10
+2. Rectal bleeding
+None 0
+Small amount only, in less than 50% of stools 10
+Small amount with most stools 20
+Large amount (>50% of the stool content) 30
+3. Stool consistency of most stools
+Formed 0
+Partially formed 5
+Completely unformed 10
+4. Number of stools per 24 hours
+0–2 0
+3–5 5
+6–8 10
+>8 15
+5. Nocturnal stools (any episode causing wakening)
+No 0
+Yes 10
+6. Activity level
+No limitation of activity 0
+Occasional limitation of activity 5
+Severe restricted activity 10
+
+Sum of PUCAI (0–85)
+
+
+.gichocolatebomb
+Chocolate Bomb is 4oz icecream, 15mL senna, 30 mL mineral oil, 30 mL milk of magnesia
+
+
+.gismog
+SMOG enema is 20 mL NS, 20 mL mineral oil, 20 mL glycerin
+
+
+.gicleanout
+cleanout protocol with Miralax 34g q 30 min x8 doses, or GoLytely via NG tube +IVF
+
+
+.giconstipation
+osmotic
+- agents: Miralax, GoLytely, Lactulose, MagOx, Sorbitol (prune juice)
+- side effects: bloating, nausea, diarrhea, hypoK
+stool softners (must be paired with osmotic agents)
+- agent: docusate/colace
+stimulants
+- agents: senna, bisacodyl, glycerin
+- side effects: cramping, decreased transient time can decrease nutrient absorption at high doses
+lubricant
+- agent: mineral oil
+
+
+.giantiemetics
+Prokinetics (D2-R)
+- agents: Metoclopramide, Domperidone, Prochlorperazine, Chlorpromazine
+- side effects: Extrapyramidal side effects, QTc prolongation, hypotension
+- specific indications: Gastroenteritis, Migraine
+ST Antagonists (5HT3-R)
+- agents: Ondansetron, Granisetron, Olanzapine
+- side effects: QTc prolongation, constipation, headache
+- specific indications: Gastroenteritis
+Antimuscarinic (M1-R)
+- agents: Scopolamine Atropine, Hysocine
+- side effects: Anticholinergic side effects
+- specific indications: motion sickness
+Antihistamine (H1-R)
+- agents: Diphenhydramine, Hydroxyzine
+- side effects: Anticholinergic side effects 
+- specific indications: motion sickness
+Neurokinin-1 Antagonists (NK1-R)
+- agents: Aprepitant
+- side effects: Cyp inhibition
+- specific indications: Chemo, cyclic vomiting
+Gaba Agonist
+- agents: Lorazepam, Alprazolam
+- side effects: Sedation, respiratory depression
+- specific indications: Functional, cyclic vomiting
+Others
+Dexamethasone, Cannabinoids, Ginger, Peppermint
+
+
+.giLFTs
+Hepatocellular: ALT (specific), AST, LDH >>> ↑ GGTP, alk phos, bilirubin
+Cholestatic: ↑ Alk phos, GGTP & Direct Bili >> AST, ALT
+Infiltrate: ↑ Alk phos w/ nl bili (send GGT to determine if from liver or bone)
+End stage: ↓ Alb, PT, PTT, factor VII, V & serum lipids
