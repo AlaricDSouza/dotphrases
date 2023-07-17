@@ -1,0 +1,183 @@
+Dotphrases for antibiotics
+
+Template
+###
+
+.id
+Antibiotic: 
+Indication: 
+Duration: 
+Dosing:  
+Route:
+Administration precautions: 
+Toxicities: 
+Lab surveillance: 
+
+###
+
+#####
+Beta-lactams
+#####
+
+.idpenicillin
+Antibiotic: Penicillin
+Indication: 
+Duration: 
+Dosing:  
+Route:
+Administration precautions: 
+Toxicities: 
+Lab surveillance: 
+
+###
+
+.idampicillin
+Antibiotic: Ampicillin
+Indication: 
+Duration: 
+Dosing:  
+Route:
+Administration precautions: 
+Toxicities: 
+Lab surveillance: 
+
+###
+
+.idamoxicillin
+Antibiotic: Amoxicillin
+Indication: 
+Duration: 
+Dosing:  
+Route:
+Administration precautions: 
+Toxicities: 
+Lab surveillance: 
+
+###
+
+.idaugmentin
+Antibiotic: Augmentin (amoxicillin-clavulanate)
+Indication: 
+Duration: 
+Dosing:  
+Route:
+Administration precautions: 
+Toxicities: 
+Lab surveillance: 
+
+###
+
+.idunasyn
+Antibiotic: Unasyn (ampicillin-sulbactam)
+Indication: 
+Duration: 
+Dosing:  
+Route:
+Administration precautions: 
+Toxicities: 
+Lab surveillance: 
+
+###
+
+.idoxacillin
+Antibiotic: Oxacillin
+Indication: 
+Duration: 
+Dosing:  
+Route:
+Administration precautions: 
+Toxicities: 
+Lab surveillance: 
+
+###
+
+.idnafcillin
+Antibiotic: Nafcillin
+Indication: 
+Duration: 
+Dosing:  
+Route:
+Administration precautions: 
+Toxicities: 
+Lab surveillance: 
+
+###
+
+.idzosyn
+Antibiotic: Zosyn (piperacillin-tazobactam)
+Indication: 
+Duration: 
+Dosing:  
+Route:
+Administration precautions: 
+Toxicities: 
+Lab surveillance: 
+
+###
+
+
+#####
+Glycopeptide
+#####
+
+.idvancomycin
+Antibiotic: Vancomycin
+Indication: 
+Duration: 
+Dosing:
+non-meningitis 10-15 mg/kg IV every 6-8h
+meningitis 15 mg/kg IV q6h
+Route: IV
+Administration precautions: 
+Toxicities: 
+Lab surveillance: 
+
+###
+
+.idoralvancomycin
+Antibiotic: Vancomycin
+Indication: Clostridioides difficile infection
+Duration: 10 days
+Dosing: 10 mg/kg (max 125 mg/dose) four times daily
+Route: PO
+Administration precautions: 
+Toxicities: 
+Lab surveillance: none
+
+
+#####
+
+#####
+
+
+
+#####
+
+#####
+
+
+
+#####
+
+#####
+
+
+
+#####
+
+#####
+
+
+
+#####
+
+#####
+
+
+
+#####
+
+#####
+
+
+
