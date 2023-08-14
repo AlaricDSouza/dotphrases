@@ -23,11 +23,20 @@ Beta-lactams
 Antibiotic: Penicillin
 Indication: 
 Duration: 
-Dosing:  
+Dosing: 
 Route:
-Administration precautions: 
-Toxicities: 
-Lab surveillance: 
+Administration precautions: caution if patient had prior reaction to beta-lactam antibiotic
+Allergies: diarrhea, skin rash
+Rare Toxicities: (Heme: anemia, thrombocytopenia, neutropenia, agranulocytosis; CNS: seizure; 
+
+CNS:  seizures
+
+Renal:  nephrotoxicity, interstitial nephritis
+
+Hepatic:  transient increases in transaminases
+
+Other:  Jarisch-Herxheimer Reaction (fever, chills, sweating, tachycardia, hyperventilation, flushing, and myalgia)
+Lab surveillance: CBC, urinalysis, BUN, SCr, AST and ALT
 
 ###
 
@@ -107,10 +116,15 @@ Lab surveillance:
 Antibiotic: Zosyn (piperacillin-tazobactam)
 Indication: 
 Duration: 
-Dosing:  
-Route:
+Dosing: 
+Route: IV (over 30 minutes or with an extended infusion to maximize time above MIC)
 Administration precautions: 
-Toxicities: 
+Toxicities:
+- most common adverse reactions (incidence >5%) are diarrhea,
+constipation, nausea, headache and insomnia
+- with vancomycin may increase the
+incidence of acute kidney injury
+- can significantly reduce tobramycin concentrations in hemodialysis patients
 Lab surveillance: 
 
 ###
